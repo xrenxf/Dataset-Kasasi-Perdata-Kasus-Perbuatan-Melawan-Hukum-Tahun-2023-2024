@@ -7,13 +7,13 @@ Sumber utama pengumpulan data dalam dataset ini adalah **Direktori Putusan Mahka
 
 Data perkara dikumpulkan berdasarkan dokumen putusan yang tersedia pada situs resmi tersebut, dengan fokus pada **perkara kasasi perdata dengan klasifikasi Perbuatan Melawan Hukum (PMH)** pada periode tahun 2023–2024.
 
-Informasi yang terdapat dalam dataset CSV disusun berdasarkan informasi yang tercantum dalam dokumen putusan pengadilan. Dokumen putusan yang disertakan dalam repository digunakan sebagai **sumber dokumen utama untuk verifikasi dan penelusuran data**.
+Informasi yang terdapat dalam dataset disusun berdasarkan informasi yang tercantum dalam dokumen putusan pengadilan. Dokumen putusan yang disertakan dalam repository digunakan sebagai **sumber dokumen utama untuk verifikasi dan penelusuran data**.
 
 ### Sumber Utama
 
 - **Nama:** Direktori Putusan Mahkamah Agung Republik Indonesia
 - **Institusi:** Mahkamah Agung Republik Indonesia
-- **Situs:** Direktori Putusan Mahkamah Agung Republik Indonesia](https://putusan3.mahkamahagung.go.id/)
+- **Situs:** Direktori Putusan Mahkamah Agung Republik Indonesia(https://putusan3.mahkamahagung.go.id/)
 - **Periode Data:** 2023–2024
 - **Jenis Perkara:** Perdata
 - **Klasifikasi:** Perbuatan Melawan Hukum (PMH)
@@ -36,7 +36,7 @@ Dataset ini dikembangkan untuk:
 
 ## Atribut Dataset
 
-Dataset CSV terdiri atas beberapa atribut yang menggambarkan informasi utama mengenai perkara dan putusan pengadilan.
+Dataset terdiri atas beberapa atribut yang menggambarkan informasi utama mengenai perkara dan putusan pengadilan.
 
 | No. | Atribut | Keterangan |
 |---:|---|---|
